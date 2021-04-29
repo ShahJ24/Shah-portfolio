@@ -1434,7 +1434,7 @@ header .logo a {
   margin-right: auto;
   text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
-.intro-content h5 {
+.intro-content p {
   color: #cc005f;
   font-family: "poppins-bold", sans-serif;
   font-size: 2.3rem;
@@ -1452,6 +1452,16 @@ header .logo a {
   letter-spacing: 0.2rem;
   color: #ffffff;
   text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+}
+
+.intro-position-title {
+  color: #cc005f;
+  font-family: "lora-regular", serif;
+  font-size: 1.7rem;
+  line-height: 2.4rem;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  font-weight: bolder;
 }
 .intro-content .intro-position span {
   display: inline-block;
