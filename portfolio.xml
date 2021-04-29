@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+	<url>
+		<loc>https://shah-portfolio.herokuapp.com/</loc>
+		<image:image>
+			<image:loc>https://shah-portfolio.herokuapp.com/images/introduction_bg.jpg</image:loc>
+		</image:image>
+		<lastmod>2021-04-25</lastmod>
+		<changefreq>biweekly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>https://shah-portfolio.herokuapp.com/about.html</loc>
+		<image:image>
+			<image:loc>https://shah-portfolio.herokuapp.com/wallpaper.jpg</image:loc>
+		</image:image>
+		<lastmod>2021-03-31</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://shah-portfolio.herokuapp.com/portfolio.html</loc>
+		<image:image>
+			<image:loc>https://shah-portfolio.herokuapp.com/phc_care.jpg</image:loc>
+		</image:image>
+		<lastmod>2021-03-21</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+</urlset>
